@@ -20,6 +20,8 @@ npm install
 npm run serve
 ```
 
+Then visit [http://localhost:8080/](http://localhost:8080/) in your web browser
+
 ### Compile and minify for production
 
 ```sh
